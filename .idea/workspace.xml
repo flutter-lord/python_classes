@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12a6d704-b215-472a-b46e-44d307b9a46c" name="Changes" comment="commi" />
+    <list default="true" id="12a6d704-b215-472a-b46e-44d307b9a46c" name="Changes" comment="commi">
+      <change afterPath="$PROJECT_DIR$/number_palindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/palindrome_range.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
