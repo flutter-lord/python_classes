@@ -1,7 +1,14 @@
-list4 = [1, 2, 3, 4, 5,6,8,9,3]
-list5 = [6, 7, 8, 9, 10]
+import statistics as st
 
-list4[2 : 5] = [57, 56, 55]
+NUMBER_OF_ELEMENTS = int(input("How many elements do you want to enter?: "))
+list_number = []
 
-list6 = [0.5 * x for x in range(10) if x >= 5]
-print(list6)
+for i in range(1, NUMBER_OF_ELEMENTS + 1):
+    number = eval(input(f"Enter num{i} : "))
+    list_number.append(number)
+
+avg = st.mean(list_number)
+print(f"The average number is {avg : .3f}")
+
+above_avg = [x for x in list_number if x > avg]
+print(f"The number of elements above the average is {len(above_avg)}")
