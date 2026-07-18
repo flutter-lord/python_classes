@@ -5,19 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12a6d704-b215-472a-b46e-44d307b9a46c" name="Changes" comment="commi">
+      <change afterPath="$PROJECT_DIR$/list_even.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtle_clock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/word_anagram.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/binary_search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/binary_search2.py" beforeDir="false" afterPath="$PROJECT_DIR$/binary_search2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consists_of.py" beforeDir="false" afterPath="$PROJECT_DIR$/consists_of.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/distinct_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/distinct_numbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lcm.py" beforeDir="false" afterPath="$PROJECT_DIR$/lcm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list_welcome.py" beforeDir="false" afterPath="$PROJECT_DIR$/list_welcome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/number_product.py" beforeDir="false" afterPath="$PROJECT_DIR$/number_product.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pass_fail.py" beforeDir="false" afterPath="$PROJECT_DIR$/pass_fail.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reverse_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/reverse_string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string_count.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_count.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/students_score.py" beforeDir="false" afterPath="$PROJECT_DIR$/students_score.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work_on_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_on_list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +65,7 @@
     "Python.first_revision.executor": "Run",
     "Python.lcm.executor": "Run",
     "Python.list+welcome.executor": "Run",
+    "Python.list_even.executor": "Run",
     "Python.list_welcome.executor": "Run",
     "Python.number_product.executor": "Run",
     "Python.number_triangle.executor": "Run",
@@ -80,6 +75,9 @@
     "Python.students_grade.executor": "Run",
     "Python.students_score.executor": "Run",
     "Python.test_grade.executor": "Run",
+    "Python.test_list.executor": "Run",
+    "Python.turtle_clock.executor": "Run",
+    "Python.word_anagram.executor": "Run",
     "Python.work_on_list.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -94,7 +92,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "inlay.hints"
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="PyConsoleOptionsProvider">
@@ -144,7 +142,23 @@
       <option name="project" value="LOCAL" />
       <updated>1784069267283</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commi">
+      <option name="closed" value="true" />
+      <created>1784383286665</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1784383286665</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commi">
+      <option name="closed" value="true" />
+      <created>1784383316625</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1784383316625</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,7 +169,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>

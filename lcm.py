@@ -1,12 +1,12 @@
-def find_lcm(number):
-    product = 1
-    for i in range(len(number)):
-        product *= number[i]
-    print(product)
+def gdc(number):
+    divisor
+    while divisor <= (for elements in number):
 
 
-import math as m
+
+
+
+
 def main():
-    n = (input("Enter the numbers, separated by comma: ")).split(",")
-    num = [int(x) for x in n]
-main()
+    n = input("Input the list of numbers, separated by comma: ").split(",")
+    number = [int(x) for x in n]

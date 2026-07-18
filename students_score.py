@@ -1,25 +1,23 @@
 s = input("Enter the students score separated by comma: ").split(",")
 scores = [int(i) for i in s]
-grade = []
+a = 0
+b = 0
+c = 0
+d = 0
+f = 0
 
-for j in range(len(scores)):
-    if scores[j] >= 90:
-        grade.append("A")
+for score in scores:
+    if score >= 90:
+        a+= 1
 
-    elif scores[j] >= 80:
-        grade.append("B")
+    elif score >= 80:
+        b +=  1
 
-    elif scores[j] >= 70:
-        grade.append("C")
+    elif score >= 70:
+        c+= 1
 
-    elif scores[j] >= 60:
-        grade.append("D")
+    elif score >= 60:
+        d+= 1
 
     else:
-        grade.append("F")
-grade.sort()
-
-for k in range(len(grade)):
-    if grade[k] == grade[k- 1]:
-        continue
-    print(f"{grade[k]} : {grade.count(grade[k])}")
+        f+= 1
