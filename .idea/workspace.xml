@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12a6d704-b215-472a-b46e-44d307b9a46c" name="Changes" comment="commi">
-      <change afterPath="$PROJECT_DIR$/calculation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list_swap_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/richard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/richard_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lcm.py" beforeDir="false" afterPath="$PROJECT_DIR$/lcm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/students_lockers.py" beforeDir="false" afterPath="$PROJECT_DIR$/students_lockers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/turtle_clock.py" beforeDir="false" afterPath="$PROJECT_DIR$/turtle_clock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hangman.py" beforeDir="false" afterPath="$PROJECT_DIR$/hangman.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hangman_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/hangman_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/richard.py" beforeDir="false" afterPath="$PROJECT_DIR$/richard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/richard_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/richard_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,52 +55,54 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.binary_search.executor": "Run",
-    "Python.binary_search2.executor": "Run",
-    "Python.calculation.executor": "Run",
-    "Python.consists_of.executor": "Run",
-    "Python.distinct_numbers.executor": "Run",
-    "Python.first_revision.executor": "Run",
-    "Python.hangam_test.executor": "Run",
-    "Python.hangman.executor": "Run",
-    "Python.index_rearrange.executor": "Run",
-    "Python.lcm.executor": "Run",
-    "Python.list+welcome.executor": "Run",
-    "Python.list_even.executor": "Run",
-    "Python.list_swap_test.executor": "Run",
-    "Python.list_welcome.executor": "Run",
-    "Python.number_product.executor": "Run",
-    "Python.number_triangle.executor": "Run",
-    "Python.pass_fail.executor": "Run",
-    "Python.reverse_string.executor": "Run",
-    "Python.string_count.executor": "Run",
-    "Python.students_grade.executor": "Run",
-    "Python.students_lockers.executor": "Run",
-    "Python.students_score.executor": "Run",
-    "Python.test_grade.executor": "Run",
-    "Python.test_list.executor": "Run",
-    "Python.turtle_clock.executor": "Run",
-    "Python.word_anagram.executor": "Run",
-    "Python.work_on_list.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "javascript.preferred.runtime.type.id": "node",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.binary_search.executor&quot;: &quot;Run&quot;,
+    &quot;Python.binary_search2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.consists_of.executor&quot;: &quot;Run&quot;,
+    &quot;Python.distinct_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.first_revision.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hangam_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hangman.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hangman_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.index_rearrange.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lcm.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list+welcome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_even.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_swap_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_welcome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.number_product.executor&quot;: &quot;Run&quot;,
+    &quot;Python.number_triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pass_fail.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reverse_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.richard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string_count.executor&quot;: &quot;Run&quot;,
+    &quot;Python.students_grade.executor&quot;: &quot;Run&quot;,
+    &quot;Python.students_lockers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.students_score.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_grade.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.turtle_clock.executor&quot;: &quot;Run&quot;,
+    &quot;Python.word_anagram.executor&quot;: &quot;Run&quot;,
+    &quot;Python.work_on_list.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="richards_revision" is-module-sdk="true">
