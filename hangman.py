@@ -15,6 +15,7 @@ class HangMan:
 	def guess_word(self):
 		while self.__hidden != list(self.__word):
 			guess = input(f"Guess a letter in this word {"".join(self.__hidden)}: ").lower()
+
 			while guess in self.__word:
 				self.__hidden[self.get_word().index(guess)] = guess
 				guess = input(f"Guess a letter in this word  {"".join(self.__hidden)}: ").lower()

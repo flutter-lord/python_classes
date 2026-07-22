@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12a6d704-b215-472a-b46e-44d307b9a46c" name="Changes" comment="commi">
+    <list default="true" id="12a6d704-b215-472a-b46e-44d307b9a46c" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/alphanumeric.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/histogram_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtle_histogram.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hangman.py" beforeDir="false" afterPath="$PROJECT_DIR$/hangman.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hangman_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/hangman_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/richard.py" beforeDir="false" afterPath="$PROJECT_DIR$/richard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/richard_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/richard_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +58,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.alphanumeric.executor&quot;: &quot;Run&quot;,
     &quot;Python.binary_search.executor&quot;: &quot;Run&quot;,
     &quot;Python.binary_search2.executor&quot;: &quot;Run&quot;,
     &quot;Python.calculation.executor&quot;: &quot;Run&quot;,
@@ -85,6 +86,7 @@
     &quot;Python.test_grade.executor&quot;: &quot;Run&quot;,
     &quot;Python.test_list.executor&quot;: &quot;Run&quot;,
     &quot;Python.turtle_clock.executor&quot;: &quot;Run&quot;,
+    &quot;Python.turtle_histogram.executor&quot;: &quot;Run&quot;,
     &quot;Python.word_anagram.executor&quot;: &quot;Run&quot;,
     &quot;Python.work_on_list.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -114,7 +116,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-50341a9f1f9c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.26222.68" />
+        <option value="bundled-python-sdk-c6d794e1806d-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.8665.309" />
       </set>
     </attachedChunks>
   </component>
@@ -190,7 +192,23 @@
       <option name="project" value="LOCAL" />
       <updated>1784475206798</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commi">
+      <option name="closed" value="true" />
+      <created>1784665697260</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1784665697261</updated>
+    </task>
+    <task id="LOCAL-00010" summary="commit">
+      <option name="closed" value="true" />
+      <created>1784665757122</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1784665757122</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,7 +239,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commi" />
-    <option name="LAST_COMMIT_MESSAGE" value="commi" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
